@@ -1,4 +1,4 @@
-It is an online food delivery app-frontend usine Reactjs-Vite Html Css
+It is an online food delivery app-frontend usine Reactjs-Vite Html Css. We can add food items to the cart and total amount is calculated .
 ![image](https://github.com/user-attachments/assets/55f9ea11-6803-466a-94ac-4e1013296408)
 
 
