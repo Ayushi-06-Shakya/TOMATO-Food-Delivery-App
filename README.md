@@ -1,4 +1,4 @@
-It is an online food delivery app-frontend usine reactjs-vite Html Css
+It is an online food delivery app-frontend usine Reactjs-Vite Html Css
 ![image](https://github.com/user-attachments/assets/55f9ea11-6803-466a-94ac-4e1013296408)
 ![image](https://github.com/user-attachments/assets/c368be16-b7fc-426e-9749-1b82fd738e15)
 ![image](https://github.com/user-attachments/assets/afb2f854-82e6-49f5-b351-6345f3737f0c)
